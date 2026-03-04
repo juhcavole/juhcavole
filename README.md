@@ -15,11 +15,12 @@
 - Machine Learning básico com **scikit-learn**
 - SQL para consultas e análise de banco de dados
 
-### **Computação em Nuvem (Azure Focus):**
+### **Computação em Nuvem:**
 - Azure Storage (Blob, SQL, CosmosDB)
 - Automação de processos na nuvem com **Python**
 - Desenvolvimento de APIs com **Flask/FastAPI**
 - Deploy e monitoramento de aplicações em **Azure App Service**
+- Google Cloud Platform (GCP Focus): BigQuery para análise de grandes volumes, Cloud SQL (PostgreSQL) e IAM para segurança de dados.
 
 ### **Outras habilidades:**
 - Controle de versão com **Git/GitHub**
@@ -36,3 +37,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana%20Oliveira%20Leite-blue)](https://www.linkedin.com/in/julianaoliveiraleite)
 
 📧 **Email:** ju_rigui@hotmail.com
+
