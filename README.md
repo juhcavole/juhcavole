@@ -1,54 +1,44 @@
-﻿# 👋 Olá, eu sou a Juliana Oliveira Leite!
+## 💡 About Me
+-👋 Hello, my name is Juliana Oliveira Leite!
+I am a Data Analyst in transition from an IT Management and Educational background. My focus is on transforming raw data into strategic intelligence using Python, SQL, and Google Cloud Platform.
 
-🎓 Formada em Gestão de TI, atuo como formadora de tecnologia com foco no ensino de programação para crianças e adolescentes. Atualmente, estou direcionando meus estudos para as áreas de **Análise de Dados** e **Computação em Nuvem**, utilizando principalmente **Python**.
+Currently, I am architecting the data infrastructure for ecoa, a specialized curation platform, where I apply advanced database modeling and cloud-ready solutions.
 
-## 💡 Sobre mim
--👋 Olá, eu sou a Juliana Oliveira Leite!
-Formada em Gestão de TI, estou em transição para a área de Análise de Dados e Cloud Computing. Atualmente, foco em transformar dados brutos em inteligência estratégica utilizando Python, SQL e Google Cloud.
-💡 No momento: > * Desenvolvendo a infraestrutura de dados da ecoa (Plataforma de Curadoria de Vídeos) usando Docker e PostgreSQL.
-Estudando para a certificação Google Data Analytics.
-Aprofundando conhecimentos em BigQuery e modelagem de dados escalável.
+🛠️ Core Skills
+Data Analytics & SQL:
 
-🛠️ Meu objetivo: Unir a minha experiência pedagógica e de gestão com o poder analítico da nuvem para ajudar empresas a tomarem decisões baseadas em fatos.
+-Relational Data Modeling: Schema design (Star/Snowflake) and database structuring in PostgreSQL.
 
-## 📚 Minhas habilidades principais
+-Data Wrangling: Extensive use of Pandas and NumPy for cleaning and transforming datasets.
 
-Análise de Dados & SQL (Foco Principal):  
--Modelagem de Dados Relacional: Design de esquemas (Star/Snowflake) e estruturação de bases no PostgreSQL.
+-Advanced SQL: Complex queries, Joins, and aggregations for extracting business insights.
 
--Manipulação e Tratamento: Experiência com Pandas e NumPy para limpeza e wrangling de dados.
+-Visualization: Creating dashboards and data storytelling with Matplotlib, Seaborn, and Plotly.
 
--SQL Avançado: Queries complexas, Joins e agregações para extração de insights estratégicos.
+-Cloud Computing & Infrastructure:
 
--Visualização: Criação de dashboards e gráficos com Matplotlib, Seaborn e Plotly.
+-Google Cloud Platform (GCP): Focusing on BigQuery for large-scale analysis and Cloud SQL.
 
-Cloud Computing & Infraestrutura:
--Google Cloud Platform (GCP): Foco em BigQuery para análise de dados em escala e Cloud SQL.
+-Infrastructure: Managing isolated environments and automation using Docker.
 
--Infraestrutura: Gestão de ambientes isolados e automação de deploys utilizando Docker.
+-Version Control: Professional use of Git/GitHub for project lifecycle management.
 
--Conhecimentos Prévios: Experiência com ferramentas de cloud (Azure) aplicadas a automação.
+📈 Featured Project (In Development)
+[ecoa Platform] – Data Infrastructure & Intelligence
 
-### **Outras habilidades:**
-- Controle de versão com **Git/GitHub**
-- Desenvolvimento de scripts para automação de tarefas
-- Metodologias de ensino: **PBL, STEM, Gamificação**
+-The Problem: Building a scalable environment for content curation with high data integrity needs.
 
-## 💼 Projetos em andamento
-Ecoa – Infraestrutura e Inteligência de Dados (Projeto Comercial).
- 
--O Problema: Necessidade de uma plataforma robusta para curadoria e gestão de grandes volumes de conteúdo de vídeo.
+-The Solution: Architected a relational database using PostgreSQL and Docker to ensure portability.
 
--A Solução: Arquitetura de base de dados relacional utilizando PostgreSQL e contentores Docker para garantir portabilidade e isolamento.
+-Technical Highlights: Implementation of Dual-Profile logic (Curator/Creator) and SQL optimization for future BigQuery migration.
 
--Destaque Técnico: Implementação de lógica de Perfil Dual (Curador/Criador) e modelagem de dados focada em escalabilidade e segurança de dados sensíveis.
-
--Nota: Repositório privado por questões de confidencialidade (NDA).
+Note: This is a private repository for confidentiality and NDA reasons.
 
 ## 📞 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana%20Oliveira%20Leite-blue)](https://www.linkedin.com/in/julianaoliveiraleite)
 
 📧 **Email:** ju_rigui@hotmail.com
+
 
 
 
