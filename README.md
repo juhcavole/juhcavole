@@ -29,7 +29,7 @@ Aprofundando conhecimentos em BigQuery e modelagem de dados escalável.
 - Metodologias de ensino: **PBL, STEM, Gamificação**
 
 ## 💼 Projetos em andamento
- -Ecoa – Infraestrutura e Inteligência de Dados (Projeto Comercial)
+ -Ecoa – Infraestrutura e Inteligência de Dados (Projeto Comercial).
 -O Problema: Necessidade de uma plataforma robusta para curadoria e gestão de grandes volumes de conteúdo de vídeo.
 -A Solução: Arquitetura de base de dados relacional utilizando PostgreSQL e contentores Docker para garantir portabilidade e isolamento.
 -Destaque Técnico: Implementação de lógica de Perfil Dual (Curador/Criador) e modelagem de dados focada em escalabilidade e segurança de dados sensíveis.
@@ -39,5 +39,6 @@ Aprofundando conhecimentos em BigQuery e modelagem de dados escalável.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana%20Oliveira%20Leite-blue)](https://www.linkedin.com/in/julianaoliveiraleite)
 
 📧 **Email:** ju_rigui@hotmail.com
+
 
 
