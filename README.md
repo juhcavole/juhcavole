@@ -14,7 +14,9 @@ Aprofundando conhecimentos em BigQuery e modelagem de dados escalável.
 ## 📚 Minhas habilidades principais
 
 - Análise de Dados & SQL (Foco Principal):
+- 
 -Modelagem de Dados Relacional: Design de esquemas (Star/Snowflake) e estruturação de bases no PostgreSQL.
+
 -Manipulação e Tratamento: Experiência com Pandas e NumPy para limpeza e wrangling de dados.
 -SQL Avançado: Queries complexas, Joins e agregações para extração de insights estratégicos.
 -Visualização: Criação de dashboards e gráficos com Matplotlib, Seaborn e Plotly.
@@ -39,6 +41,7 @@ Aprofundando conhecimentos em BigQuery e modelagem de dados escalável.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana%20Oliveira%20Leite-blue)](https://www.linkedin.com/in/julianaoliveiraleite)
 
 📧 **Email:** ju_rigui@hotmail.com
+
 
 
 
